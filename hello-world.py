@@ -1,2 +1,0 @@
-Merhaba Dünya
-selam
